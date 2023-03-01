@@ -165,8 +165,7 @@ html{
 .habilidades{
     padding: 80px 0 100px 0;
     text-align: center;
-    background: linear-gradient(rgba(0,0,0,.3), rgba(0,0,0,.3)),
-    url("img/habilidades.jpg");
+    background-color: #9c9c9cb8;
     background-size: cover;
     background-attachment: fixed;
     background-position: center center;
