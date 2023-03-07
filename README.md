@@ -24,4 +24,4 @@ JAVASCRIPT:
 
 
 Link de la página web del CV
-👉🏼https://edyfranquizc.github.io/proyectoCV.ticmas/
+👉🏼https://edyfranquizc.github.io/proyectoCV.ticmas.Franquiz/
